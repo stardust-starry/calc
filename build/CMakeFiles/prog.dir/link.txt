@@ -1,1 +1,0 @@
-/usr/bin/cc -Wl,--dependency-file=CMakeFiles/prog.dir/link.d CMakeFiles/prog.dir/cal_main.c.o -o prog   -L/home/runner/work/calc/calc/prog  -L/home/runner/work/calc/calc/PUBLIC  -L/home/runner/work/calc/calc/.  -Wl,-rpath,/home/runner/work/calc/calc/prog:/home/runner/work/calc/calc/PUBLIC:/home/runner/work/calc/calc/.:/home/runner/work/calc/calc/build libarithmetic.so

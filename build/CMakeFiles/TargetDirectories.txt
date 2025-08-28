@@ -1,4 +1,0 @@
-/home/runner/work/calc/calc/build/CMakeFiles/arithmetic.dir
-/home/runner/work/calc/calc/build/CMakeFiles/prog.dir
-/home/runner/work/calc/calc/build/CMakeFiles/edit_cache.dir
-/home/runner/work/calc/calc/build/CMakeFiles/rebuild_cache.dir

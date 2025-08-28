@@ -1,0 +1,14 @@
+# Build artifacts
+build/
+*.o
+*.so
+*.exe
+prog
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
